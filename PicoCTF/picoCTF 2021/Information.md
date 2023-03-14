@@ -6,7 +6,7 @@ Some important things to know:
 - Images can store hidden info on the metadata;
 - You can analyze the metadata with a tool called ExifTool.
 
-Start by getting the file on your terminal: `https://mercury.picoctf.net/static/e5825f58ef798fdd1af3f6013592a971/cat.jpg` 
+Start by getting the file on your terminal: `wget https://mercury.picoctf.net/static/e5825f58ef798fdd1af3f6013592a971/cat.jpg` 
 
 Next let's check the metadata: `exiftool cat.jpg`
 
