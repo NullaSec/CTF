@@ -7,7 +7,6 @@ The password for the next level is stored in a file somewhere under the inhere d
 - 1033 bytes in size
 - not executable
 
-
 **Commands Used:**  
 - `ls` → list directory contents
 - `cd` → change to a different directory
@@ -33,6 +32,6 @@ If we do `cat` on that path we'll get our password.
 
 **Solution:**
 ```
-
+HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 ```
 
