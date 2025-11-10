@@ -1,4 +1,4 @@
-### Bandit 8 → 9
+### Bandit 9 → 10
 
 **Level Goal:**  
 
