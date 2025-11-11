@@ -1,4 +1,4 @@
-# Domain
+# History
 
 - Category: OSINT
 - Difficulty: Easy
