@@ -3,7 +3,7 @@
 - Category: OSINT
 - Difficulty: Medium
 - Points: 100
-- Author: N/A
+- Author: Sam (p3wp3w)
 
 ## The Challenge
 Can you locate where this scan was taken?
@@ -47,7 +47,7 @@ Finally what I was looking for. The coordinates on Maps were being innacurate so
 
 <img src="./images/earth.png" height="200">
 
-Since the challenge asked for decimal coordinates I just used the first converter I found and got the answer for the flag after rounding to to 4 decimal places.
+Since the challenge asked for decimal coordinates I just used the first converter I found and got the answer for the flag after rounding it to 4 decimal places.
 
 ## Flag
 
